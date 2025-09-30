@@ -7,8 +7,6 @@ J’ai hâte d’en apprendre davantage sur les branches, les commits, les pull 
 
 ## Import d'image :
 
-## Import d'image :
-
 ![Capture locale](images/capture.png)
 
 
