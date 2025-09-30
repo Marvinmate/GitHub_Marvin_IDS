@@ -9,7 +9,7 @@ J’ai hâte d’en apprendre davantage sur les branches, les commits, les pull 
 
 ## Import d'image :
 
-![Capture locale](Images/capture.png)
+![Capture locale](images/capture.png)
 
 
 ## Ce que j’ai appris 
