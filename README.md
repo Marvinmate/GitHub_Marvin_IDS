@@ -7,7 +7,7 @@ J’ai hâte d’en apprendre davantage sur les branches, les commits, les pull 
 
 ## Import d'image :
 
-![alt text](<../Images/Capture d’écran 2025-09-30 123817.png>)
+![Capture locale](images/capture-2025-09-30-123817.png)
 
 
 ## Ce que j’ai appris 
